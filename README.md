@@ -1,4 +1,5 @@
-# pagerank
-PageRank algorithm implementation (Markov Chain and classic) for CS50AI
+# PageRank algorithm implementation
+Two versions: Markov Chain and classic
+For Harvard CS50AI (Introduction to AI with Python)
 
-About the algorithm: https://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm
+[https://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm](Description of the algorithm)
